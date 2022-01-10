@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace AnnaFarmerMarket.Data
 {
-    internal class CustomerAddress
+    internal class CustomerFullInfo
     {
 
-        private int _id;
-        public int Id
+        private int _customerID;
+        public int CustomerID
         {
-            get { return _id; }
-            set { _id = value; }
+            get { return _customerID; }
+            set { _customerID = value; }
         }
 
         private string _firstName= "";
