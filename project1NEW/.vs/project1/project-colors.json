@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5eaa070f-7f7d-408b-a56e-88014de4f8e0": {
+      "ProjectGuid": "5eaa070f-7f7d-408b-a56e-88014de4f8e0",
+      "DisplayName": "AnnaFarmerMarket.Data",
+      "ColorIndex": 0
+    },
+    "e299ba72-b737-4085-bdde-5f8f8e4f3f52": {
+      "ProjectGuid": "e299ba72-b737-4085-bdde-5f8f8e4f3f52",
+      "DisplayName": "project1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
