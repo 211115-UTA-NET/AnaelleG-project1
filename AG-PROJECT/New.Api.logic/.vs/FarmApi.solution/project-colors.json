@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a22ede22-d312-48e5-a101-4280c2c596a6": {
+      "ProjectGuid": "a22ede22-d312-48e5-a101-4280c2c596a6",
+      "DisplayName": "Farmer.Api",
+      "ColorIndex": 0
+    },
+    "78b1e46a-1753-48b3-b2d0-13f0c9b18c2a": {
+      "ProjectGuid": "78b1e46a-1753-48b3-b2d0-13f0c9b18c2a",
+      "DisplayName": "Project1.Api.Dtos",
+      "ColorIndex": 1
+    },
+    "467b85ba-5dda-4e5e-b50e-5d06f88e7f29": {
+      "ProjectGuid": "467b85ba-5dda-4e5e-b50e-5d06f88e7f29",
+      "DisplayName": "UI.API",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

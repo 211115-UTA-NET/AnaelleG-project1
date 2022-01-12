@@ -1,0 +1,7 @@
+C:\Users\15612\Revature-files\Rev\New.Api.logic\obj\Debug\net6.0\New.Api.logic.csproj.AssemblyReference.cache
+C:\Users\15612\Revature-files\Rev\New.Api.logic\obj\Debug\net6.0\New.Api.logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15612\Revature-files\Rev\New.Api.logic\obj\Debug\net6.0\New.Api.logic.AssemblyInfoInputs.cache
+C:\Users\15612\Revature-files\Rev\New.Api.logic\obj\Debug\net6.0\New.Api.logic.AssemblyInfo.cs
+C:\Users\15612\Revature-files\Rev\New.Api.logic\obj\Debug\net6.0\New.Api.logic.csproj.CoreCompileInputs.cache
+C:\Users\15612\Revature-files\Rev\New.Api.logic\obj\Debug\net6.0\New.Api.logic.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\15612\Revature-files\Rev\New.Api.logic\obj\Debug\net6.0\New.Api.logic.MvcApplicationPartsAssemblyInfo.cache
